@@ -2,7 +2,7 @@
 
 
 Public Class Form1
-    Dim rutaExcel As String = "C:\Users\francisco.yanez\Mi unidad\IPCHILE (DOCENTE)\3-TALLER DE APLICACIONES PUNTO NET\SEMANA 4\Maestra.xlsx"
+    Dim rutaExcel As String = "C:\Users\alumnos.republica\Downloads\Maestra.xlsx"
     Dim conexion As OleDbConnection
     Dim dtDatos As DataTable
 
