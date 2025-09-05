@@ -1,6 +1,5 @@
 ﻿Imports System.Data.OleDb
 
-
 Public Class Form1
     Dim rutaExcel As String = "C:\Users\alumnos.republica\Downloads\Maestra.xlsx"
     Dim conexion As OleDbConnection
